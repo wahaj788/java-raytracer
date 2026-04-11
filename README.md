@@ -17,11 +17,8 @@ The program outputs images in PPM (P3) format.
 
 ## Sample Renders
 
-### Basic Sphere Scene
-<img src="sample_images/testRainbow.png" width="400" alt="Showcase render">
-
-### Reflection Test
-![Reflection render](images/reflections.png)
+<img src="sample_images/testRainbow.png" width="300" alt="Sample render 1">
+<img src="sample_images/testShowcase.png" width="300" alt="Sample render 2">
 
 ---
 
