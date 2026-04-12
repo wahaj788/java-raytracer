@@ -13,6 +13,8 @@ The program outputs images in PPM (P3) format.
 - Recursive reflections
 - Scene description via text input file
 
+---
+
 ## Sample Render
 
 <img src="sample_images/testRainbow.png" width="400" alt="Sample render 1">
