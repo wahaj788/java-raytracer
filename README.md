@@ -3,6 +3,7 @@
 A simple ray tracer written in Java that renders scenes composed of spheres
 with ambient, diffuse, specular lighting and recursive reflections.
 The program outputs images in PPM (P3) format.
+
 ---
 
 ## Features
@@ -14,15 +15,20 @@ The program outputs images in PPM (P3) format.
 
 ---
 
-## Sample Renders
+## Sample Render
 
 <img src="sample_images/testRainbow.png" width="300" alt="Sample render 1">
-<img src="sample_images/testShowcase.png" width="300" alt="Sample render 2">
-
 ---
 
+
 ## How to Run
+
+### Input file format
+
+An txt file is provided as a command-line argument
 
 ### Compile
 ```bash
 javac RayTracer.java jama/*.java
+
+
