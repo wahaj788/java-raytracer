@@ -3,7 +3,6 @@
 A simple ray tracer written in Java that renders scenes composed of spheres
 with ambient, diffuse, specular lighting and recursive reflections.
 The program outputs images in PPM (P3) format.
-
 ---
 
 ## Features
