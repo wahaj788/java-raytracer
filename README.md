@@ -97,7 +97,7 @@ OUTPUT  output.ppm
 
 ## Output
  
-The rendered image is saved as a **P3 PPM** file at the path specified by `OUTPUT`. You can convert it to PNG or other formats using tools like [ImageMagick](https://imagemagick.org/):
+The rendered image is saved as a **P3 PPM** file at the path specified by `OUTPUT`. You can convert it to PNG or other formats using online tools.
  
 
 
