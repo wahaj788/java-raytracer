@@ -28,6 +28,8 @@ The program outputs images in PPM (P3) format.
 ### Compile
 ```bash
 javac RayTracer.java
+```
+
 
 ### Input file format
 
