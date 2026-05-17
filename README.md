@@ -13,7 +13,6 @@ The program outputs images in PPM (P3) format.
 - Recursive reflections
 - Scene description via text input file
 
----
 
 ## Sample Render
 
@@ -22,12 +21,18 @@ The program outputs images in PPM (P3) format.
 
 ## How to Run
 
+### Prerequisites
+- Java
+- JAMA library (included in this repository)
+
+### Compile
+```bash
+javac RayTracer.java
+
 ### Input file format
 
 An txt file is provided as a command-line argument
 
-### Compile
-```bash
-javac RayTracer.java jama/*.java
+
 
 
