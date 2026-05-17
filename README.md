@@ -26,23 +26,21 @@ The program outputs images in PPM (P3) format.
   
 ---
  
-## Building
+## How to Compile
  
 ```bash
 javac RayTracer.java
 ```
 
----
  
-## Running
+## How to Run
  
 ```bash
 java RayTracer <input_file>
 ```
  
 Where `<input_file>` is a scene description file (see format below).
- 
----
+
  
 ## Input File Format
  
@@ -96,8 +94,7 @@ AMBIENT 0.2 0.2 0.2
 OUTPUT  output.ppm
 ```
  
----
- 
+
 ## Output
  
 The rendered image is saved as a **P3 PPM** file at the path specified by `OUTPUT`. You can convert it to PNG or other formats using tools like [ImageMagick](https://imagemagick.org/):
